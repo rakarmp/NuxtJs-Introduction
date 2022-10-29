@@ -32,7 +32,7 @@
           color: 'cyan',
           year: 'Laravel',
           title: 'Framework PHP',
-          isi: 'kerja aplikasi web berbasis PHP yang sumber terbuka, menggunakan konsep Model-View-Controller. Laravel berada dibawah lisensi MIT, dengan menggunakan GitHub sebagai tempat berbagi kode.'
+          isi: 'kerangka kerja aplikasi web berbasis PHP yang sumber terbuka, menggunakan konsep Model-View-Controller. Laravel berada dibawah lisensi MIT, dengan menggunakan GitHub sebagai tempat berbagi kode.'
         },
         {
           color: 'green',
